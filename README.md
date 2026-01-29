@@ -16,7 +16,7 @@ This is a template for creating applications using Vite and HeroUI (v2).
 To clone the project, run the following command:
 
 ```bash
-git clone [https://github.com/Siddharth-chattopadhyay/React-JS---Explorer](https://github.com/Siddharth-chattopadhyay/React-JS---Explorer)
+git clone https://github.com/Siddharth-chattopadhyay/React-JS---Explorer
 ```
 
 ### Install all dependencies (using ```yarn```)
