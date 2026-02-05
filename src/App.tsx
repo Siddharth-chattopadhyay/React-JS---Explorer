@@ -1,7 +1,8 @@
 import {Checkbox} from "@heroui/checkbox";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
-import OffCanvas from "./components/OffCanvas.jsx"; // Ignore this error. It still works
+import OffCanvas from "./components/OffCanvas.js"; // Ignore this error. It still works
+import FlowBite from "./components/FlowBite.js"
 
 function App() {
   return (
@@ -21,6 +22,11 @@ function App() {
     <div className="p-5">
       <h1>TailWindCSS</h1>
       <p className="text-3xl font-bold underline">Paragraph is styled using tailwindcss</p>
+    </div>
+
+    <div className="p-5">
+      <h1>Flowbite</h1>
+      <FlowBite/>
     </div>
     </>
   );
