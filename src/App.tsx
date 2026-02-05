@@ -22,10 +22,6 @@ function App() {
       <h1>TailWindCSS</h1>
       <p className="text-3xl font-bold underline">Paragraph is styled using tailwindcss</p>
     </div>
-    <div className="p-5">
-      <h1>Remix</h1>
-      <Remix/>
-    </div>
     </>
   );
 }

@@ -5,7 +5,7 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-} from "@remix-run/react";
+} from "@r";
 import {HeroUIProvider} from "@heroui/react";
 
 export default function App() {
